@@ -4,7 +4,7 @@ let str = "This is improves file for improve project";
 
 //------------exec function(this fun will return an array for match or null for no match)----------------
 //----------For search----------------------
-// let reg = /improve/; //For Globaly search
+// let reg = /improve/; //For search
 // let res = reg.exec(str);
 // console.log(res);
 
@@ -16,7 +16,7 @@ let str = "This is improves file for improve project";
 
 
 //---------For casesensative  search----------
-// let reg = /improve/i; //For Globaly search
+// let reg = /improve/i; //For avoid chapital letter search
 // let res2 = reg.exec(str);
 // console.log(res2);
 
