@@ -33,11 +33,13 @@ let str = "This is improves file for improve project";
 // console.log(result)
 //Output :- [ 'improve', 'improve' ]
 
+
 //---------------search function(Return index of first match else -1)-----------//
 // let reg = /improve/g;
 // let result = str.search(reg)
 // console.log(result);
 //Output :- 8
+
 
 //---------------relace fucntion(Return new replaced string with all the replacements)-----//
 // let reg = /improve/g;
