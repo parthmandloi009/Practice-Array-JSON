@@ -23,7 +23,7 @@ let str = "This is improves file for improve project";
 
 //------------test function(Return true and false)---------------
 // let reg = /improve/g;
-// let res = reg.test(function(this fun will return an array for match or null for no match)
+// let res = reg.test(str)
 // console.log(res);
 
 
